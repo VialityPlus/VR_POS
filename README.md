@@ -1,4 +1,20 @@
-"# VR_POS" 
+*******************************************************************************
+*                                                                             *
+*                                 Kinect2Pos                                  *
+*                                                                             *
+*                     Skeleton tracking based on Kinect V2                    *
+*                                                                             *
+*                     https://github.com/VialityPlus/VR_POS                   *
+*                                                                             *
+*******************************************************************************
+
+Copyright (C) 2016  VialityPlus (www.vialityplus.hk)
+
+This file is part of VR Positioning. 
+
+You should have received a copy of the GNU Lesser General Public License along
+with this program. If not, see <http://www.gnu.org/licenses/>.
+
 Dependencies & Prerequisite
 ------------
 * Kinect Adapter for Windows *
